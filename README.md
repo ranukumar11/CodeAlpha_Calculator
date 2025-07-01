@@ -25,8 +25,8 @@ It is simple, responsive calculator web application built using **HTML**, **CSS*
 
 ├── style.css # Styling
 
-├── script.js # JavaScript logi
-c
+├── script.js # JavaScript logic
+
 └── README.md # Project documentation
 
  # How It Works
