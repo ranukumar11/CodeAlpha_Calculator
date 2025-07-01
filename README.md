@@ -22,8 +22,11 @@ It is simple, responsive calculator web application built using **HTML**, **CSS*
 # Project Structure
  
 ├── index.html # Main HTML file
+
 ├── style.css # Styling
-├── script.js # JavaScript logic
+
+├── script.js # JavaScript logi
+c
 └── README.md # Project documentation
 
  # How It Works
